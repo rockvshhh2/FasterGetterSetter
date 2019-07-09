@@ -65,7 +65,7 @@ namespace ConsoleApp1
         [StringMask]
         public string IdNo { get; set; }
 
-        [StringMask]
+        
         public string a { get; set; }
 
         [StringMask]
